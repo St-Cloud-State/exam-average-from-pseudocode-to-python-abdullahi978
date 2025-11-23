@@ -54,6 +54,6 @@ print(f"The average score is: {average:.2f}")
 # Every line you write must have a comment directly above it.
 
 # Call your function when your program is ready
-#call the function using keyword parameters
+#call the function using keyword parameters to connect the parameters to the variables
 calculate_average(s1=score1,s2=score2,s3=score3)
 
